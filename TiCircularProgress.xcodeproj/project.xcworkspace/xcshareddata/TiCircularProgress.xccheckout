@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1FE0DA65-D5E0-4889-BA55-0F4FA0DEB3F6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TiCircularProgress</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0C6EA6C7101DAC5F32B375A85A6F97B42FDF686D</key>
+		<string>https://github.com/caspahouzer/TiCircularProgress.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TiCircularProgress.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0C6EA6C7101DAC5F32B375A85A6F97B42FDF686D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/caspahouzer/TiCircularProgress.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0C6EA6C7101DAC5F32B375A85A6F97B42FDF686D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0C6EA6C7101DAC5F32B375A85A6F97B42FDF686D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TiCircularProgress</string>
+		</dict>
+	</array>
+</dict>
+</plist>
